@@ -342,6 +342,7 @@ Males.animals.push(Charlie)
 let Oscar = new Doge("Doge", "White", "Male");
 Males.animals.push(Oscar)
 let Ellie = new Elephant("Ellie", "Grey", "Female");
+Females.animals.push(Ellie)
 let Franklin = new Frog("Franklin", "Light Green", "Male");
 let Glizzy = new Grasshopper("Glizzy", "Pale Green", "Male");
 let Henry = new Hiphopanonymous("Henry", "Light Grey", "Male");
